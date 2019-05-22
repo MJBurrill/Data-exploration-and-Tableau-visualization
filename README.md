@@ -1,4 +1,4 @@
-# Data-exploration-and-Tableau-visualization
+# Data-exploration-and-Tableau-Visualization
 Data visualization with Tableau
 
 
