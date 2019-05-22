@@ -11,3 +11,7 @@ Since one of my passions is fisheries and marine conservation I thought it would
 Lets dive right in:
 
 First I wanted to take a look at what were the most commonly caught species in this region and dataset:
+
+
+
+![First I wanted to take a look at what were the most commonly caught species in this region and dataset:](https://github.com/MJBurrill/Data-exploration-and-Tableau-visualization/blob/master/Sum_of_species_caught.png)
