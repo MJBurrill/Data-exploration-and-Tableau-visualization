@@ -20,3 +20,6 @@ The most commonly caught species in this region and dataset:
 
 
 ![First I wanted to take a look at what were the most commonly caught species in this region and dataset:](https://github.com/MJBurrill/Data-exploration-and-Tableau-visualization/blob/master/Sum_of_species_caught.png)
+
+Comparison of most popular species caught and the countries that have the biggest catches:
+![Comparison of most popular species caught and the countries that have the biggest catches](https://github.com/MJBurrill/Data-exploration-and-Tableau-visualization/blob/master/Screen%20Shot%202019-05-31%20at%204.59.03%20PM.png)
